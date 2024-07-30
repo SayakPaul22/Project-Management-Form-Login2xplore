@@ -58,6 +58,7 @@ Database Connection Token
 ## Screenshots
 
 ![Form](https://github.com/user-attachments/assets/e2837130-79a1-4603-b629-8b9359855eda)
+![Dashboard](https://github.com/user-attachments/assets/504b7feb-f6dd-4887-b203-ff1bc46720d0)
 
 
 ## Scope of functionalities
