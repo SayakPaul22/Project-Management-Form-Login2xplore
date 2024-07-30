@@ -57,7 +57,7 @@ Database Connection Token
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Form.png](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 ## Scope of functionalities
